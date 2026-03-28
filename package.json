@@ -1,7 +1,7 @@
 {
   "name": "sketchflow",
   "version": "0.1.0",
-  "description": "Wireframe-to-code converter — generate HTML/CSS from structured wireframe descriptions",
+  "description": "Wireframe-to-code converter \u2014 generate HTML/CSS from structured wireframe descriptions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -21,7 +21,6 @@
     "sketchflow"
   ],
   "author": "Officethree Technologies",
-  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/officethree/sketchflow.git"
