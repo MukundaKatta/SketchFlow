@@ -1,6 +1,6 @@
 # SketchFlow — Wireframe-to-code converter — generate HTML/CSS from structured component specs in TypeScript
 
-Wireframe-to-code converter — generate HTML/CSS from structured component specs in TypeScript. SketchFlow gives you a focused, inspectable implementation of that idea.
+Wireframe-to-code converter — generate HTML/CSS from structured component specs in TypeScript.
 
 ## Why SketchFlow
 
